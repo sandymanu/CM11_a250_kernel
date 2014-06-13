@@ -4,5 +4,3 @@ Build Command:
 (uboot had been phase out from jb)
 kernel
 ======
-cd kernel directory
-TARGET_PRODUCT=tinno89_we_jb2 MTK_ROOT_CUSTOM=../mediatek/custom/ make
